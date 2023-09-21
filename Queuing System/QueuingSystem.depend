@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1670524027 source:c:\users\mariam\see++\queuingsystem\main.cpp
+	<bits/stdc++.h>
+	"wCustomerQueue.h"
+	"qeueType.h"
+	"server.h"
+	"customerType.h"
+	"serverList.h"
+	"file.h"
+
+1670520006 c:\users\mariam\see++\queuingsystem\wcustomerqueue.h
+	"qeueType.h"
+	"server.h"
+	"customerType.h"
+	"serverList.h"
+
+1670580610 c:\users\mariam\see++\queuingsystem\qeuetype.h
+	"server.h"
+	"serverList.h"
+
+1670524097 c:\users\mariam\see++\queuingsystem\server.h
+	<bits/stdc++.h>
+	<string>
+	"customerType.h"
+
+1670525018 c:\users\mariam\see++\queuingsystem\serverlist.h
+	<ostream>
+	"customerType.h"
+	"server.h"
+
